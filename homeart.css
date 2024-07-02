@@ -1,0 +1,79 @@
+h1 {
+    font-size: 300%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(3, 31, 243);
+    margin-bottom:0%;
+    padding-bottom: 0%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.sidebar {
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.sidebar a {
+    color: rgb(2, 2, 2);
+    background-color: rgb(255, 255, 255);
+    margin-left: 2%;
+    margin-left: 2%;
+    text-decoration: none;
+    font-size: 150%;
+    display: inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#alvin {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0%;
+
+}
+
+#titleAlvin {
+    margin-bottom: 0%;
+    margin-top: 0;
+}
+#A {
+    font-size: 150%;
+    margin-top: 0%;
+    color:rgb(0, 0, 255);
+    
+}
+
+
+#terrance {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0%;
+
+}
+
+#titleTerrance {
+    margin-bottom: 0%;
+    margin-top: 0;
+}
+#T {
+    font-size: 150%;
+    margin-top: 0%;
+    color:rgb(0, 0, 255);
+    
+}
+
+h2 {
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color:rgb(0, 0, 255);
+}
+
+
