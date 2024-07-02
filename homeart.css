@@ -32,6 +32,12 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+#C {
+    color:rgb(255, 0, 0);
+    text-align: center;
+
+}
+
 #alvin {
     text-align: center;
     margin-top: 2%;
@@ -76,4 +82,7 @@ h2 {
     color:rgb(0, 0, 255);
 }
 
+body {
+    background-image: url("background.jpg");
+}
 
